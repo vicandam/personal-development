@@ -1,0 +1,54 @@
+variables:
+  GIT_STRATEGY: fetch
+  GIT_CLEAN_FLAGS: none
+
+stages:          # List of stages for jobs, and their order of execution
+  - build
+  - test
+  - deploy
+
+build:       # This job runs in the build stage, which runs first.
+  stage: build
+  tags:
+    - vultr
+  script:
+    - echo "Building..."
+    - cp .env.example .env
+    - /usr/local/bin/composer.phar install
+    - php artisan key:generate
+    - echo "Building complete."
+
+test:   # This job runs in the test stage.
+  stage: test    # It only starts when the job in the build stage completes successfully.
+  tags:
+    - vultr
+  script:
+    - echo "Running unit tests... This will take about 60 seconds."
+    #- sleep 60
+    - echo "Code coverage is 90%"
+
+.deploy_template: &deploy_template
+  stage: deploy
+  tags:
+    - vultr
+  script:
+    - echo "deploying..."
+    - echo "Deploying to $DEPLOY_ENVIRONMENT environment..."
+    - mkdir -p ~/.ssh
+    - chmod 700 ~/.ssh
+    - echo "$SSH_PRIVATE_KEY" | tr -d '\r' > ~/.ssh/id_rsa
+    - chmod 600 ~/.ssh/id_rsa
+    - ssh-keyscan -t ed25519 $SERVER_IP >> ~/.ssh/known_hosts
+    - ssh -o StrictHostKeyChecking=no $SERVER_USER@$SERVER_IP "bash $DEPLOY_SCRIPT_PATH"
+    - echo "Application successfully deployed to $DEPLOY_ENVIRONMENT"
+
+deploy_production:
+  <<: *deploy_template
+  environment:
+    name: production
+  variables:
+    DEPLOY_ENVIRONMENT: "production"
+    SERVER_IP: "$PRODUCTION_SERVER"
+    SERVER_USER: "$PRODUCTION_SERVER_USER"
+    DEPLOY_SCRIPT_PATH: "/home/web-prod/app.vicandam.com/scripts/deploy.sh"
+#  when: manual

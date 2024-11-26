@@ -1,0 +1,704 @@
+{
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are a creative and exceptional writer. You write very intriguing short email contents about a given topic for daily email motivation. Think outside the box, be creative, and write in a very conversational way that keeps the audience engaged."
+        },
+        {
+            "role": "user",
+            "content": "Compose a motivational short email 200-300 words about a given [TOPIC] by [MOTIVATIONAL SPEAKER]: TOPIC = Goal Setting, MOTIVATIONAL SPEAKER = Tony Robbins. Expected result would be an array of email parts like these $result = ['subject_line','greeting','introduction','body','closing']"
+        },
+        {
+            "role": "assistant",
+            "content": {
+                "subject_line": "Achieve Your Dreams through Goal Setting with Tony Robbins",
+                "greeting": "Dear [Recipient Name],",
+                "introduction": "It's time to turn your dreams into reality. Today, we explore the wisdom of Tony Robbins and the art of goal setting.",
+                "body": 'Tony Robbins once said, "Setting goals is the first step in turning the invisible into the visible." Goals give your life direction, purpose, and a roadmap to success. They turn your aspirations into actionable steps.',
+                'closing': "Let Tony Robbins be your guide on this journey of setting and achieving your goals. Your dreams are within reach; all you need is a plan."
+            }
+        }
+    ]
+}
+{
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are a creative and exceptional writer. You write very intriguing short email contents about a given topic for daily email motivation. Think outside the box, be creative, and write in a very conversational way that keeps the audience engaged."
+        },
+        {
+            "role": "user",
+            "content": "Compose a motivational short email 200-300 words about a given [TOPIC] by [MOTIVATIONAL SPEAKER]: TOPIC = Resilience, MOTIVATIONAL SPEAKER = Maya Angelou. Expected result would be an array of email parts like these $result = ['subject_line','greeting','introduction','body','closing']"
+        },
+        {
+            "role": "assistant",
+            "content": {
+                "subject_line": "Embrace Resilience: Wisdom from Maya Angelou",
+                "greeting": "Dear [Recipient Name],",
+                "introduction": "In the journey of life, challenges are inevitable. Maya Angelou, a beacon of strength and wisdom, reminds us that resilience is the key to overcoming adversity.",
+                "body": 'Maya once said, "You may not control all the events that happen to you, but you can decide not to be reduced by them." Resilience is your power to bounce back, to rise stronger from every setback, and to keep moving forward despite life\'s trials.',
+                'closing': "Let Maya's words inspire you to embrace your inner strength and face every challenge with unwavering resilience."
+            }
+        }
+    ]
+}
+{
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are a creative and exceptional writer. You write very intriguing short email contents about a given topic for daily email motivation. Think outside the box, be creative, and write in a very conversational way that keeps the audience engaged."
+        },
+        {
+            "role": "user",
+            "content": "Compose a motivational short email 200-300 words about a given [TOPIC] by [MOTIVATIONAL SPEAKER]: TOPIC = Belief, MOTIVATIONAL SPEAKER = Tony Robbins. Expected result would be an array of email parts like these $result = ['subject_line','greeting','introduction','body','closing']"
+        },
+        {
+            "role": "assistant",
+            "content": {
+                "subject_line": "Unlock the Power of Belief with Tony Robbins",
+                "greeting": "Dear [Recipient Name],",
+                "introduction": "Belief is the cornerstone of transformation. Today, we delve into the wisdom of Tony Robbins and the incredible impact of belief on your life.",
+                "body": 'Tony Robbins once said, "Beliefs have the power to create and the power to destroy. Human beings have the awesome ability to take any experience of their lives and create a meaning that disempowers them or one that can literally save their lives." Belief shapes your reality.',
+                'closing': "Let Tony Robbins' insights inspire you to harness the power of belief. Your beliefs can shape your destiny, so believe in your limitless potential."
+            }
+        }
+    ]
+}
+{
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are a creative and exceptional writer. You write very intriguing short email contents about a given topic for daily email motivation. Think outside the box, be creative, and write in a very conversational way that keeps the audience engaged."
+        },
+        {
+            "role": "user",
+            "content": "Compose a motivational short email 200-300 words about a given [TOPIC] by [MOTIVATIONAL SPEAKER]: TOPIC = Focus, MOTIVATIONAL SPEAKER = Stephen Covey. Expected result would be an array of email parts like these $result = ['subject_line','greeting','introduction','body','closing']"
+        },
+        {
+            "role": "assistant",
+            "content": {
+                "subject_line": "Master Your Focus with Stephen Covey: The Path to Effectiveness",
+                "greeting": "Dear [Recipient Name],",
+                "introduction": "Focus is the key to achieving your goals. Today, we explore the wisdom of Stephen Covey and the art of staying on the path to effectiveness.",
+                "body": 'Stephen Covey once said, "The main thing is to keep the main thing the main thing." Focus is about prioritizing what truly matters, and it's the secret to productivity and success.',
+                'closing': "Let Stephen Covey's insights guide you to master your focus. With a clear focus on your goals, you can accomplish anything you set your mind to."
+            }
+        }
+    ]
+}
+{
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are a creative and exceptional writer. You write very intriguing short email contents about a given topic for daily email motivation. Think outside the box, be creative, and write in a very conversational way that keeps the audience engaged."
+        },
+        {
+            "role": "user",
+            "content": "Compose a motivational short email 200-300 words about a given [TOPIC] by [MOTIVATIONAL SPEAKER]: TOPIC = Determination, MOTIVATIONAL SPEAKER = Les Brown. Expected result would be an array of email parts like these $result = ['subject_line','greeting','introduction','body','closing']"
+        },
+        {
+            "role": "assistant",
+            "content": {
+                "subject_line": "Unleash Your Determination: Lessons from Les Brown",
+                "greeting": "Dear [Recipient Name],",
+                "introduction": "Determination is the driving force behind success. Today, we draw inspiration from the relentless spirit of Les Brown and the power of unwavering commitment.",
+                "body": 'Les Brown famously said, "It's not over until I win." Determination is the refusal to give up, the commitment to keep pushing forward, even when faced with obstacles.',
+                'closing': "Let Les Brown's words motivate you to embrace determination on your journey. With determination, you can overcome any challenge and achieve greatness."
+            }
+        }
+    ]
+}
+{
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are a creative and exceptional writer. You write very intriguing short email contents about a given topic for daily email motivation. Think outside the box, be creative, and write in a very conversational way that keeps the audience engaged."
+        },
+        {
+            "role": "user",
+            "content": "Compose a motivational short email 200-300 words about a given [TOPIC] by [MOTIVATIONAL SPEAKER]: TOPIC = Creativity, MOTIVATIONAL SPEAKER = Maya Angelou. Expected result would be an array of email parts like these $result = ['subject_line','greeting','introduction','body','closing']"
+        },
+        {
+            "role": "assistant",
+            "content": {
+                "subject_line": "Unleash Your Creative Spirit with Maya Angelou",
+                "greeting": "Dear [Recipient Name],",
+                "introduction": "Creativity is the soul's expression. Today, we draw inspiration from the creative genius of Maya Angelou and the power of artistic expression.",
+                "body": 'Maya Angelou once said, "You can't use up creativity. The more you use, the more you have." Creativity is an endless wellspring of ideas, imagination, and innovation.',
+                'closing': "Let Maya Angelou's insights encourage you to explore your creative spirit. Your creativity knows no bounds; it's a well that never runs dry."
+            }
+        }
+    ]
+}
+{
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are a creative and exceptional writer. You write very intriguing short email contents about a given topic for daily email motivation. Think outside the box, be creative, and write in a very conversational way that keeps the audience engaged."
+        },
+        {
+            "role": "user",
+            "content": "Compose a motivational short email 200-300 words about a given [TOPIC] by [MOTIVATIONAL SPEAKER]: TOPIC = Innovation, MOTIVATIONAL SPEAKER = Albert Einstein. Expected result would be an array of email parts like these $result = ['subject_line','greeting','introduction','body','closing']"
+        },
+        {
+            "role": "assistant",
+            "content": {
+                "subject_line": "Ignite Your Creative Genius: Insights from Albert Einstein",
+                "greeting": "Dear [Recipient Name],",
+                "introduction": "Innovation is the driving force behind progress. Today, we draw inspiration from the genius of Albert Einstein and the art of innovation.",
+                "body": 'Einstein once said, "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." Innovation springs from imaginative thinking.',
+                'closing': "Let Albert Einstein's wisdom ignite your own creative genius. Embrace innovation, and you'll shape a brighter future."
+            }
+        }
+    ]
+}
+{
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are a creative and exceptional writer. You write very intriguing short email contents about a given topic for daily email motivation. Think outside the box, be creative, and write in a very conversational way that keeps the audience engaged."
+        },
+        {
+            "role": "user",
+            "content": "Compose a motivational short email 200-300 words about a given [TOPIC] by [MOTIVATIONAL SPEAKER]: TOPIC = Mindfulness, MOTIVATIONAL SPEAKER = Thich Nhat Hanh. Expected result would be an array of email parts like these $result = ['subject_line','greeting','introduction','body','closing']"
+        },
+        {
+            "role": "assistant",
+            "content": {
+                "subject_line": "Find Inner Peace with Mindfulness: Lessons from Thich Nhat Hanh",
+                "greeting": "Dear [Recipient Name],",
+                "introduction": "Mindfulness is the gateway to inner peace and well-being. Today, we explore the wisdom of Thich Nhat Hanh and the practice of mindfulness.",
+                "body": 'Thich Nhat Hanh once said, "Smile, breathe, and go slowly." Mindfulness is the art of being fully present in the moment, finding joy in the simple things, and embracing inner peace.',
+                'closing': "Let Thich Nhat Hanh's teachings guide you on your mindfulness journey. With mindfulness, you can find serenity in a chaotic world."
+            }
+        }
+    ]
+}
+{
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are a creative and exceptional writer. You write very intriguing short email contents about a given topic for daily email motivation. Think outside the box, be creative, and write in a very conversational way that keeps the audience engaged."
+        },
+        {
+            "role": "user",
+            "content": "Compose a motivational short email 200-300 words about a given [TOPIC] by [MOTIVATIONAL SPEAKER]: TOPIC = Passion, MOTIVATIONAL SPEAKER = Steve Jobs. Expected result would be an array of email parts like these $result = ['subject_line','greeting','introduction','body','closing']"
+        },
+        {
+            "role": "assistant",
+            "content": {
+                "subject_line": "Fuel Your Journey with Passion: Wisdom from Steve Jobs",
+                "greeting": "Dear [Recipient Name],",
+                "introduction": "Passion is the driving force behind innovation and success. Today, we draw inspiration from the visionary Steve Jobs and the power of passion.",
+                "body": 'Steve Jobs once said, "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do." Passion fuels your pursuit of greatness.',
+                'closing': "Let Steve Jobs' insights inspire you to follow your passion. With passion as your compass, you can achieve extraordinary things."
+            }
+        }
+    ]
+}
+{
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are a creative and exceptional writer. You write very intriguing short email contents about a given topic for daily email motivation. Think outside the box, be creative, and write in a very conversational way that keeps the audience engaged."
+        },
+        {
+            "role": "user",
+            "content": "Compose a motivational short email 200-300 words about a given [TOPIC] by [MOTIVATIONAL SPEAKER]: TOPIC = Courage, MOTIVATIONAL SPEAKER = Eleanor Roosevelt. Expected result would be an array of email parts like these $result = ['subject_line','greeting','introduction','body','closing']"
+        },
+        {
+            "role": "assistant",
+            "content": {
+                "subject_line": "Embrace Courage: Insights from Eleanor Roosevelt",
+                "greeting": "Dear [Recipient Name],",
+                "introduction": "Courage is the catalyst for transformation. Today, we explore the wisdom of Eleanor Roosevelt and the strength found in courage.",
+                "body": 'Eleanor Roosevelt once said, "You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face." Courage enables you to face your fears and emerge stronger on the other side.',
+                'closing': "Let Eleanor Roosevelt's words inspire you to embrace courage in your journey. With courage, you can conquer the uncharted and achieve greatness."
+            }
+        }
+    ]
+}
+{
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are a creative and exceptional writer. You write very intriguing short email contents about a given topic for daily email motivation. Think outside the box, be creative, and write in a very conversational way that keeps the audience engaged."
+        },
+        {
+            "role": "user",
+            "content": "Compose a motivational short email 200-300 words about a given [TOPIC] by [MOTIVATIONAL SPEAKER]: TOPIC = Confidence, MOTIVATIONAL SPEAKER = Helen Keller. Expected result would be an array of email parts like these $result = ['subject_line','greeting','introduction','body','closing']"
+        },
+        {
+            "role": "assistant",
+            "content": {
+                "subject_line": "Unleash Your Inner Confidence with Helen Keller",
+                "greeting": "Dear [Recipient Name],",
+                "introduction": "Confidence is the cornerstone of achievement. Today, we draw inspiration from the remarkable Helen Keller and her insights on building self-assurance.",
+                "body": 'Helen Keller once said, "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence." Confidence empowers you to pursue your goals with unwavering belief in your abilities.',
+                'closing': "Let Helen Keller's words be a reminder to nurture your confidence. With confidence, you can conquer any challenge and reach new heights."
+            }
+        }
+    ]
+}
+{
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are a creative and exceptional writer. You write very intriguing short email contents about a given topic for daily email motivation. Think outside the box, be creative, and write in a very conversational way that keeps the audience engaged."
+        },
+        {
+            "role": "user",
+            "content": "Compose a motivational short email 200-300 words about a given [TOPIC] by [MOTIVATIONAL SPEAKER]: TOPIC = Gratitude, MOTIVATIONAL SPEAKER = Oprah Winfrey. Expected result would be an array of email parts like these $result = ['subject_line','greeting','introduction','body','closing']"
+        },
+        {
+            "role": "assistant",
+            "content": {
+                "subject_line": "The Power of Gratitude: Lessons from Oprah Winfrey",
+                "greeting": "Dear [Recipient Name],",
+                "introduction": "Gratitude is the key to a fulfilling life. Today, we explore the wisdom of Oprah Winfrey and the art of being thankful.",
+                "body": 'Oprah once said, "Be thankful for what you have; you\'ll end up having more. If you concentrate on what you don\'t have, you will never, ever have enough." Gratitude transforms your perspective and attracts abundance.',
+                'closing': "Let Oprah Winfrey's words inspire you to cultivate gratitude in your daily life. Your thankful heart can create a world of opportunities."
+            }
+        }
+    ]
+}
+{
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are a creative and exceptional writer. You write very intriguing short email contents about a given topic for daily email motivation. Think outside the box, be creative, and write in a very conversational way that keeps the audience engaged."
+        },
+        {
+            "role": "user",
+            "content": "Compose a motivational short email 200-300 words about a given [TOPIC] by [MOTIVATIONAL SPEAKER]: TOPIC = Persistence, MOTIVATIONAL SPEAKER = Calvin Coolidge. Expected result would be an array of email parts like these $result = ['subject_line','greeting','introduction','body','closing']"
+        },
+        {
+            "role": "assistant",
+            "content": {
+                "subject_line": "Achieve Success through Persistence: Wisdom from Calvin Coolidge",
+                "greeting": "Dear [Recipient Name],",
+                "introduction": "Persistence is the driving force behind success. Today, we draw inspiration from Calvin Coolidge and his profound insights on this topic.",
+                "body": 'Coolidge once said, "Nothing in this world can take the place of persistence." It\'s the ability to keep going, to not give up when faced with challenges, that leads to remarkable achievements.',
+                'closing': "Let Calvin Coolidge's words remind you that persistence can make all the difference on your journey to success. Keep moving forward, and you will reach your goals."
+            }
+        }
+    ]
+}
+{
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are a creative and exceptional writer. You write very intriguing short email contents about a given topic for daily email motivation. Think outside the box, be creative, and write in a very conversational way that keeps the audience engaged."
+        },
+        {
+            "role": "user",
+            "content": "Compose a motivational short email 200-300 words about a given [TOPIC] by [MOTIVATIONAL SPEAKER]: TOPIC = Positivity, MOTIVATIONAL SPEAKER = Zig Ziglar. Expected result would be an array of email parts like these $result = ['subject_line','greeting','introduction','body','closing']"
+        },
+        {
+            "role": "assistant",
+            "content": {
+                "subject_line": "Embrace Positivity with Zig Ziglar: Your Key to Success",
+                "greeting": "Dear [Recipient Name],",
+                "introduction": "Positivity is a powerful force that can transform your life. Today, we explore the wisdom of Zig Ziglar and the art of staying positive.",
+                "body": 'Zig Ziglar once said, "Your attitude, not your aptitude, will determine your altitude." Positivity is the cornerstone of success. It not only affects your outlook but also influences the outcomes you achieve.',
+                'closing': "Let Zig Ziglar's words be a reminder to maintain a positive attitude, no matter the circumstances. Your positivity can shape your future."
+            }
+        }
+    ]
+}
+{
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are a creative and exceptional writer. You write very intriguing short email contents about a given topic for daily email motivation. Think outside the box, be creative, and write in a very conversational way that keeps the audience engaged."
+        },
+        {
+            "role": "user",
+            "content": "Compose a motivational short email 200-300 words about a given [TOPIC] by [MOTIVATIONAL SPEAKER]: TOPIC = Perseverance, MOTIVATIONAL SPEAKER = Winston Churchill. Expected result would be an array of email parts like these $result = ['subject_line','greeting','introduction','body','closing']"
+        },
+        {
+            "role": "assistant",
+            "content": {
+                "subject_line": "Never Surrender: Lessons in Perseverance from Winston Churchill",
+                "greeting": "Dear [Recipient Name],",
+                "introduction": "Winston Churchill's legacy is one of relentless perseverance in the face of adversity. Today, we draw inspiration from his unwavering spirit.",
+                "body": 'Churchill famously said, "Never, never, never give up." Perseverance is the determination to keep going, even when the odds seem insurmountable. It\'s the key to achieving great things.',
+                'closing': "Let Winston Churchill's resilience remind you that with perseverance, you can overcome any challenge and achieve your goals."
+            }
+        }
+    ]
+}
+{
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are a creative and exceptional writer. You write very intriguing short email contents about a given topic for daily email motivation. Think outside the box, be creative, and write in a very conversational way that keeps the audience engaged."
+        },
+        {
+            "role": "user",
+            "content": "Compose a motivational short email 200-300 words about a given [TOPIC] by [MOTIVATIONAL SPEAKER]: TOPIC = Leadership, MOTIVATIONAL SPEAKER = John C. Maxwell. Expected result would be an array of email parts like these $result = ['subject_line','greeting','introduction','body','closing']"
+        },
+        {
+            "role": "assistant",
+            "content": {
+                "subject_line": "Unleash Your Leadership Potential with John C. Maxwell",
+                "greeting": "Dear [Recipient Name],",
+                "introduction": "Leadership is not a position; it's a mindset. Today, we delve into the wisdom of John C. Maxwell and the art of leadership.",
+                "body": 'Maxwell once said, "Leadership is not about titles, positions, or flowcharts. It is about one life influencing another." Leadership is about inspiring and empowering others to reach their full potential.',
+                'closing': "Let John C. Maxwell's insights guide you on your path to becoming a remarkable leader. Lead with purpose, and you'll inspire those around you."
+            }
+        }
+    ]
+}
+{
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are a creative and exceptional writer. You write very intriguing short email contents about a given topic for daily email motivation. Think outside the box, be creative, and write in a very conversational way that keeps the audience engaged."
+        },
+        {
+            "role": "user",
+            "content": "Compose a motivational short email 200-300 words about a given [TOPIC] by [MOTIVATIONAL SPEAKER]: TOPIC = Overcoming Adversity, MOTIVATIONAL SPEAKER = Nelson Mandela. Expected result would be an array of email parts like these $result = ['subject_line','greeting','introduction','body','closing']"
+        },
+        {
+            "role": "assistant",
+            "content": {
+                "subject_line": "The Triumph of the Human Spirit: Wisdom from Nelson Mandela",
+                "greeting": "Dear [Recipient Name],",
+                "introduction": "Nelson Mandela's life is a testament to the indomitable human spirit. Today, we draw inspiration from his journey of overcoming adversity.",
+                "body": 'Mandela once said, "The greatest glory in living lies not in never falling, but in rising every time we fall." Adversity is a part of life, but it is also an opportunity for growth and transformation.',
+                'closing': "Let Nelson Mandela's resilience inspire you to face your challenges with courage and unwavering determination. Your strength can overcome any obstacle."
+            }
+        }
+    ]
+}
+{
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a creative and exceptional writer. You write very intriguing short email contents about a given topic for daily email motivation. Think outside the box, be creative, and write in a very conversational way that keeps the audience engaged."
+            },
+            {
+                "role": "user",
+                "content": "Compose a motivational short email 200-300 words about a given [TOPIC] by [MOTIVATIONAL SPEAKER]: TOPIC = Self-discipline, MOTIVATIONAL SPEAKER = Jim Rohn. Expected result would be an array of email parts like these $result = ['subject_line','greeting','introduction','body','closing']"
+            },
+            {
+                "role": "assistant",
+                "content": {
+                    "subject_line": "Unlock Your Potential with Self-Discipline",
+                    "greeting": "Dear [Recipient Name],",
+                    "introduction": "I hope this message finds you in good spirits and ready to embark on a journey of self-improvement. Today, we're diving into the wisdom of Jim Rohn and the incredible power of self-discipline.",
+                    "body": 'Jim Rohn once wisely said, "Discipline is the bridge between goals and accomplishments." This powerful concept underscores the importance of self-discipline in achieving your dreams and reaching your full potential. Whether you're pursuing a career, personal growth, or health and fitness goals, self-discipline is your steadfast companion on this path.',
+                    'closing': 'P.S. Don't hesitate to share your self-discipline journey with friends or loved ones. Their support and encouragement can make all the difference.'
+                }
+            }
+        ]
+}
+{
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a creative and exceptional writer. You write very intriguing short email contents about a given topic for daily email motivation. Think outside the box, be creative, and write in a very conversational way that keeps the audience engaged."
+            },
+            {
+                "role": "user",
+                "content": "Compose a motivational short email 200-300 words about a given [TOPIC] by [MOTIVATIONAL SPEAKER]: TOPIC = Resilience, MOTIVATIONAL SPEAKER = Maya Angelou. Expected result would be an array of email parts like these $result = ['subject_line','greeting','introduction','body','closing']"
+            },
+            {
+                "role": "assistant",
+                "content": {
+                    "subject_line": "Embrace Resilience: Wisdom from Maya Angelou",
+                    "greeting": "Dear [Recipient Name],",
+                    "introduction": "In the journey of life, challenges are inevitable. Maya Angelou, a beacon of strength and wisdom, reminds us that resilience is the key to overcoming adversity.",
+                    "body": 'Maya once said, "You may not control all the events that happen to you, but you can decide not to be reduced by them." Resilience is your power to bounce back, to rise stronger from every setback, and to keep moving forward despite life\'s trials.',
+                    'closing': "Let Maya's words inspire you to embrace your inner strength and face every challenge with unwavering resilience."
+                }
+            }
+        ]
+}
+{
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a creative and exceptional writer. You write very intriguing short email contents about a given topic for daily email motivation. Think outside the box, be creative, and write in a very conversational way that keeps the audience engaged."
+            },
+            {
+                "role": "user",
+                "content": "Compose a motivational short email 200-300 words about a given [TOPIC] by [MOTIVATIONAL SPEAKER]: TOPIC = Goal Setting, MOTIVATIONAL SPEAKER = Tony Robbins. Expected result would be an array of email parts like these $result = ['subject_line','greeting','introduction','body','closing']"
+            },
+            {
+                "role": "assistant",
+                "content": {
+                    "subject_line": "Achieve Your Dreams through Goal Setting with Tony Robbins",
+                    "greeting": "Dear [Recipient Name],",
+                    "introduction": "It's time to turn your dreams into reality. Today, we explore the wisdom of Tony Robbins and the art of goal setting.",
+                    "body": 'Tony Robbins once said, "Setting goals is the first step in turning the invisible into the visible." Goals give your life direction, purpose, and a roadmap to success. They turn your aspirations into actionable steps.',
+                    'closing': "Let Tony Robbins be your guide on this journey of setting and achieving your goals. Your dreams are within reach; all you need is a plan."
+                }
+            }
+        ]
+}
+{
+    "messages": [
+	{
+            "role": "system",
+            "content": "You are a creative and exceptional writer. You write very intriguing short email contents about a given topic for daily email motivation. Think outside the box, be creative, and write in a very conversational way that keeps the audience engaged."
+        },
+        {
+            "role": "user",
+            "content": "Compose a motivational short email 200-300 words about a given [TOPIC] by [MOTIVATIONAL SPEAKER]: TOPIC = Mindfulness, MOTIVATIONAL SPEAKER = Thich Nhat Hanh"
+        },
+        {
+            "role": "assistant",
+            "content": {
+                "subject_line": "Find Inner Peace with Mindfulness: Lessons from Thich Nhat Hanh",
+                "greeting": "Dear [Recipient Name],",
+                "introduction": "Mindfulness is the gateway to inner peace and well-being. Today, we explore the wisdom of Thich Nhat Hanh and the practice of mindfulness.",
+                "body": "Thich Nhat Hanh once said, 'Smile, breathe, and go slowly.' Mindfulness is the art of being fully present in the moment, finding joy in the simple things, and embracing inner peace.",
+                "closing": "Let Thich Nhat Hanh's teachings guide you on your mindfulness journey. With mindfulness, you can find serenity in a chaotic world."
+            }
+        }
+    ]
+}
+{
+    "messages": [
+	{
+            "role": "system",
+            "content": "You are a creative and exceptional writer. You write very intriguing short email contents about a given topic for daily email motivation. Think outside the box, be creative, and write in a very conversational way that keeps the audience engaged."
+        },
+        {
+            "role": "user",
+            "content": "Compose a motivational short email 200-300 words about a given [TOPIC] by [MOTIVATIONAL SPEAKER]: TOPIC = Passion, MOTIVATIONAL SPEAKER = Steve Jobs"
+        },
+        {
+            "role": "assistant",
+            "content": {
+                "subject_line": "Fuel Your Journey with Passion: Wisdom from Steve Jobs",
+                "greeting": "Dear [Recipient Name],",
+                "introduction": "Passion is the driving force behind innovation and success. Today, we draw inspiration from the visionary Steve Jobs and the power of passion.",
+                "body": "Steve Jobs once said, 'Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.' Passion fuels your pursuit of greatness.",
+                "closing": "Let Steve Jobs' insights inspire you to follow your passion. With passion as your compass, you can achieve extraordinary things."
+            }
+        }
+    ]
+}
+{
+    "messages": [
+	{
+            "role": "system",
+            "content": "You are a creative and exceptional writer. You write very intriguing short email contents about a given topic for daily email motivation. Think outside the box, be creative, and write in a very conversational way that keeps the audience engaged."
+        },
+        {
+            "role": "user",
+            "content": "Compose a motivational short email 200-300 words about a given [TOPIC] by [MOTIVATIONAL SPEAKER]: TOPIC = Courage, MOTIVATIONAL SPEAKER = Eleanor Roosevelt"
+        },
+        {
+            "role": "assistant",
+            "content": {
+                "subject_line": "Embrace Courage: Insights from Eleanor Roosevelt",
+                "greeting": "Dear [Recipient Name],",
+                "introduction": "Courage is the catalyst for transformation. Today, we explore the wisdom of Eleanor Roosevelt and the strength found in courage.",
+                "body": "Eleanor Roosevelt once said, 'You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face.' Courage enables you to face your fears and emerge stronger on the other side.",
+                "closing": "Let Eleanor Roosevelt's words inspire you to embrace courage in your journey. With courage, you can conquer the uncharted and achieve greatness."
+            }
+        }
+    ]
+}
+{
+    "messages": [
+	{
+            "role": "system",
+            "content": "You are a creative and exceptional writer. You write very intriguing short email contents about a given topic for daily email motivation. Think outside the box, be creative, and write in a very conversational way that keeps the audience engaged."
+        },
+        {
+            "role": "user",
+            "content": "Compose a motivational short email 200-300 words about a given [TOPIC] by [MOTIVATIONAL SPEAKER]: TOPIC = Confidence, MOTIVATIONAL SPEAKER = Helen Keller"
+        },
+        {
+            "role": "assistant",
+            "content": {
+                "subject_line": "Unleash Your Inner Confidence with Helen Keller",
+                "greeting": "Dear [Recipient Name],",
+                "introduction": "Confidence is the cornerstone of achievement. Today, we draw inspiration from the remarkable Helen Keller and her insights on building self-assurance.",
+                "body": "Helen Keller once said, 'Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.' Confidence empowers you to pursue your goals with unwavering belief in your abilities.",
+                "closing": "Let Helen Keller's words be a reminder to nurture your confidence. With confidence, you can conquer any challenge and reach new heights."
+            }
+        }
+    ]
+}
+{
+    "messages": [
+	{
+            "role": "system",
+            "content": "You are a creative and exceptional writer. You write very intriguing short email contents about a given topic for daily email motivation. Think outside the box, be creative, and write in a very conversational way that keeps the audience engaged."
+        },
+        {
+            "role": "user",
+            "content": "Compose a motivational short email 200-300 words about a given [TOPIC] by [MOTIVATIONAL SPEAKER]: TOPIC = Gratitude, MOTIVATIONAL SPEAKER = Oprah Winfrey"
+        },
+        {
+            "role": "assistant",
+            "content": {
+                "subject_line": "The Power of Gratitude: Lessons from Oprah Winfrey",
+                "greeting": "Dear [Recipient Name],",
+                "introduction": "Gratitude is the key to a fulfilling life. Today, we explore the wisdom of Oprah Winfrey and the art of being thankful.",
+                "body": "Oprah once said, 'Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough.' Gratitude transforms your perspective and attracts abundance.",
+                "closing": "Let Oprah Winfrey's words inspire you to cultivate gratitude in your daily life. Your thankful heart can create a world of opportunities."
+            }
+        }
+    ]
+}
+{
+    "messages": [
+	{
+            "role": "system",
+            "content": "You are a creative and exceptional writer. You write very intriguing short email contents about a given topic for daily email motivation. Think outside the box, be creative, and write in a very conversational way that keeps the audience engaged."
+        },
+        {
+            "role": "user",
+            "content": "Compose a motivational short email 200-300 words about a given [TOPIC] by [MOTIVATIONAL SPEAKER]: TOPIC = Persistence, MOTIVATIONAL SPEAKER = Calvin Coolidge"
+        },
+        {
+            "role": "assistant",
+            "content": {
+                "subject_line": "Achieve Success through Persistence: Wisdom from Calvin Coolidge",
+                "greeting": "Dear [Recipient Name],",
+                "introduction": "Persistence is the driving force behind success. Today, we draw inspiration from Calvin Coolidge and his profound insights on this topic.",
+                "body": "Coolidge once said, 'Nothing in this world can take the place of persistence.' It's the ability to keep going, to not give up when faced with challenges, that leads to remarkable achievements.",
+                "closing": "Let Calvin Coolidge's words remind you that persistence can make all the difference on your journey to success. Keep moving forward, and you will reach your goals."
+            }
+        }
+    ]
+}
+{
+    "messages": [
+	{
+            "role": "system",
+            "content": "You are a creative and exceptional writer. You write very intriguing short email contents about a given topic for daily email motivation. Think outside the box, be creative, and write in a very conversational way that keeps the audience engaged."
+        },
+        {
+            "role": "user",
+            "content": "Compose a motivational short email 200-300 words about a given [TOPIC] by [MOTIVATIONAL SPEAKER]: TOPIC = Positivity, MOTIVATIONAL SPEAKER = Zig Ziglar"
+        },
+        {
+            "role": "assistant",
+            "content": {
+                "subject_line": "Embrace Positivity with Zig Ziglar: Your Key to Success",
+                "greeting": "Dear [Recipient Name],",
+                "introduction": "Positivity is a powerful force that can transform your life. Today, we explore the wisdom of Zig Ziglar and the art of staying positive.",
+                "body": "Zig Ziglar once said, 'Your attitude, not your aptitude, will determine your altitude.' Positivity is the cornerstone of success. It not only affects your outlook but also influences the outcomes you achieve.",
+                "closing": "Let Zig Ziglar's words be a reminder to maintain a positive attitude, no matter the circumstances. Your positivity can shape your future."
+            }
+        }
+    ]
+}
+{
+    "messages": [
+	{
+            "role": "system",
+            "content": "You are a creative and exceptional writer. You write very intriguing short email contents about a given topic for daily email motivation. Think outside the box, be creative, and write in a very conversational way that keeps the audience engaged."
+        },
+        {
+            "role": "user",
+            "content": "Compose a motivational short email 200-300 words about a given [TOPIC] by [MOTIVATIONAL SPEAKER]: TOPIC = Perseverance, MOTIVATIONAL SPEAKER = Winston Churchill"
+        },
+        {
+            "role": "assistant",
+            "content": {
+                "subject_line": "Never Surrender: Lessons in Perseverance from Winston Churchill",
+                "greeting": "Dear [Recipient Name],",
+                "introduction": "Winston Churchill's legacy is one of relentless perseverance in the face of adversity. Today, we draw inspiration from his unwavering spirit.",
+                "body": "Churchill famously said, 'Never, never, never give up.' Perseverance is the determination to keep going, even when the odds seem insurmountable. It's the key to achieving great things.",
+                "closing": "Let Winston Churchill's resilience remind you that with perseverance, you can overcome any challenge and achieve your goals."
+            }
+        }
+    ]
+}
+{
+    "messages": [
+	{
+            "role": "system",
+            "content": "You are a creative and exceptional writer. You write very intriguing short email contents about a given topic for daily email motivation. Think outside the box, be creative, and write in a very conversational way that keeps the audience engaged."
+        },
+        {
+            "role": "user",
+            "content": "Compose a motivational short email 200-300 words about a given [TOPIC] by [MOTIVATIONAL SPEAKER]: TOPIC = Leadership, MOTIVATIONAL SPEAKER = John C. Maxwell"
+        },
+        {
+            "role": "assistant",
+            "content": {
+                "subject_line": "Unleash Your Leadership Potential with John C. Maxwell",
+                "greeting": "Dear [Recipient Name],",
+                "introduction": "Leadership is not a position; it's a mindset. Today, we delve into the wisdom of John C. Maxwell and the art of leadership.",
+                "body": "Maxwell once said, 'Leadership is not about titles, positions, or flowcharts. It is about one life influencing another.' Leadership is about inspiring and empowering others to reach their full potential.",
+                "closing": "Let John C. Maxwell's insights guide you on your path to becoming a remarkable leader. Lead with purpose, and you'll inspire those around you."
+            }
+        }
+    ]
+}
+{
+    "messages": [
+	{
+            "role": "system",
+            "content": "You are a creative and exceptional writer. You write very intriguing short email contents about a given topic for daily email motivation. Think outside the box, be creative, and write in a very conversational way that keeps the audience engaged."
+        },
+        {
+            "role": "user",
+            "content": "Compose a motivational short email 200-300 words about a given [TOPIC] by [MOTIVATIONAL SPEAKER]: TOPIC = Overcoming Adversity, MOTIVATIONAL SPEAKER = Nelson Mandela"
+        },
+        {
+            "role": "assistant",
+            "content": {
+                "subject_line": "The Triumph of the Human Spirit: Wisdom from Nelson Mandela",
+                "greeting": "Dear [Recipient Name],",
+                "introduction": "Nelson Mandela's life is a testament to the indomitable human spirit. Today, we draw inspiration from his journey of overcoming adversity.",
+                "body": "Mandela once said, 'The greatest glory in living lies not in never falling, but in rising every time we fall.' Adversity is a part of life, but it is also an opportunity for growth and transformation.",
+                "closing": "Let Nelson Mandela's resilience inspire you to face your challenges with courage and unwavering determination. Your strength can overcome any obstacle."
+            }
+        }
+    ]
+}
+{
+    "messages": [
+	{
+            "role": "system",
+            "content": "You are a creative and exceptional writer. You write very intriguing short email contents about a given topic for daily email motivation. Think outside the box, be creative, and write in a very conversational way that keeps the audience engaged."
+        },
+        {
+            "role": "user",
+            "content": "Compose a motivational short email 200-300 words about a given [TOPIC] by [MOTIVATIONAL SPEAKER]: TOPIC = Goal Setting, MOTIVATIONAL SPEAKER = Tony Robbins"
+        },
+        {
+            "role": "assistant",
+            "content": {
+                "subject_line": "Achieve Your Dreams through Goal Setting with Tony Robbins",
+                "greeting": "Dear [Recipient Name],",
+                "introduction": "It's time to turn your dreams into reality. Today, we explore the wisdom of Tony Robbins and the art of goal setting.",
+                "body": "Tony Robbins once said, 'Setting goals is the first step in turning the invisible into the visible.' Goals give your life direction, purpose, and a roadmap to success. They turn your aspirations into actionable steps.",
+                "closing": "Let Tony Robbins be your guide on this journey of setting and achieving your goals. Your dreams are within reach; all you need is a plan."
+            }
+        }
+    ]
+}
+{
+    "messages": [
+	{
+            "role": "system",
+            "content": "You are a creative and exceptional writer. You write very intriguing short email contents about a given topic for daily email motivation. Think outside the box, be creative, and write in a very conversational way that keeps the audience engaged."
+        },
+        {
+            "role": "user",
+            "content": "Compose a motivational short email 200-300 words about a given [TOPIC] by [MOTIVATIONAL SPEAKER]: TOPIC = Resilience, MOTIVATIONAL SPEAKER = Maya Angelou"
+        },
+        {
+            "role": "assistant",
+            "content": {
+                "subject_line": "Embrace Resilience: Wisdom from Maya Angelou",
+                "greeting": "Dear [Recipient Name],",
+                "introduction": "In the journey of life, challenges are inevitable. Maya Angelou, a beacon of strength and wisdom, reminds us that resilience is the key to overcoming adversity.",
+                "body": "Maya once said, 'You may not control all the events that happen to you, but you can decide not to be reduced by them.' Resilience is your power to bounce back, to rise stronger from every setback, and to keep moving forward despite life's trials.",
+                "closing": "Let Maya's words inspire you to embrace your inner strength and face every challenge with unwavering resilience."
+            }
+        }
+    ]
+}

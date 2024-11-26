@@ -1,0 +1,43 @@
+variables:
+  GIT_STRATEGY: fetch
+  GIT_CLEAN_FLAGS: none
+  OPEN_AI_TOKEN: "dummy_token"
+
+stages:
+  - build
+  - test
+  - deploy
+
+build:
+  stage: build
+  tags:
+    - sitebunker
+  script:
+    - echo "Building..."
+    - cp .env.example .env
+    - composer install
+    - php artisan key:generate
+    - echo "Building complete."
+
+test:
+  stage: test
+  tags:
+    - sitebunker
+  script:
+    - echo "testing..."
+    - php artisan test
+
+deploy:
+  stage: deploy
+  tags:
+    - sitebunker
+  script:
+    - echo "deploying..."
+    - mkdir -p ~/.ssh
+    - chmod 700 ~/.ssh
+    - echo "$SSH_PRIVATE_KEY" | tr -d '\r' > ~/.ssh/id_rsa
+    - chmod 600 ~/.ssh/id_rsa
+    - ssh-keyscan -t ed25519 $SERVER_IP >> ~/.ssh/known_hosts
+    - ssh -o StrictHostKeyChecking=no $SERVER_USER@$SERVER_IP "bash /home/deployer/growrichjourney.vicandam.com/scripts/deploy.sh"
+    - echo "Application successfully deployed to $DEPLOY_ENVIRONMENT"
+
